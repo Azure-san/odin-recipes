@@ -1,0 +1,18 @@
+.title {
+    color: #6e5204;
+}
+
+.picture {
+    border: #6e5204;
+    border-radius: 1cm;
+    border-style: outset;  
+}
+
+p, ul, ol {
+    font-size: 24px;
+    color: #6e5204;
+}
+
+html {
+    background-color: #e3ba6d;
+}
